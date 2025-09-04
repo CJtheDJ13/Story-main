@@ -70,7 +70,7 @@ if (choice == "v")
         Console.Clear();
         Console.WriteLine("Dina instinkter får dig tillslut att kuta allt vad du har till dörren några meter fram.");
         Thread.Sleep(1000);
-        Console.WriteLine("Men nu när zombierna hör dig klart och tydligt, springer dem efter dig.");
+        Console.WriteLine("Men nu när zombierna hör dig klart och tydligt, springer de efter dig.");
         Thread.Sleep(1000);
         Console.WriteLine("Du kom tillslut fram till dörren och märker att den var trögare att öppna än vad du först trott.");
         Thread.Sleep(1000);
